@@ -1,7 +1,7 @@
 # Javad
 <h1 align="center">Hi 👋, I'm Javad khavari</h1>
 <h3 align="center">A passionate student who want to learn more!</h3>
-<img align = "right" alt="Codding" width=400" src="http://i.imgur.com/jvzRYnC.gif"> 
+<img align = "right" alt="Codding" width=300" src="http://i.imgur.com/jvzRYnC.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
