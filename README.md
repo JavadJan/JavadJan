@@ -1,8 +1,7 @@
 # Javad
-<img width="100%" height="300" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
+<img width="100%" height="260" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Javad khavari</h1>
 <h3 align="center">A passionate student who want to learn more!</h3>
-<img align = "right" alt="Codding" width="400" src="https://elearningtags.com/wp-content/uploads/2019/07/1197166525.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
