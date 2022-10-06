@@ -1,5 +1,4 @@
 # Javad
-<img width="100%" height="260" src="https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Javad khavari</h1>
 <h3 align="center">A passionate student who want to learn more!</h3>
 
