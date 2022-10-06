@@ -2,7 +2,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/58b71435414fb5f53856f3b3/1489769649226-U2CQKOA36YPD5LWXZB9W/7b736a33be802fc2e737e3df56b4ef0e.gif?format=1500w)
 <h1 align="center">Hi 👋, I'm Javad khavari</h1>
 <h3 align="center">A passionate student who want to learn more!</h3>
-<img align = "right" alt="Codding" width=300" src="https://i.gifer.com/embedded/download/BWkS.gif"> 
+<img align = "right" alt="Codding" width=300" src="![image](https://user-images.githubusercontent.com/92234079/194276212-2288c2ff-cafd-444a-831d-7f7c7dca3007.png)"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
