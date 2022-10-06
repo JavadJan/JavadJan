@@ -1,8 +1,8 @@
 # Javad
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBK6NkXNTxygWKhLMyIQa7aztRWZ13jcA2tg&usqp=CAU)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/58b71435414fb5f53856f3b3/1489769649226-U2CQKOA36YPD5LWXZB9W/7b736a33be802fc2e737e3df56b4ef0e.gif?format=1500w)
 <h1 align="center">Hi 👋, I'm Javad khavari</h1>
 <h3 align="center">A passionate student who want to learn more!</h3>
-<img align = "right" alt="Codding" width=300" src="http://i.imgur.com/jvzRYnC.gif"> 
+<img align = "right" alt="Codding" width=300" src="https://i.gifer.com/embedded/download/BWkS.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
