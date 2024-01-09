@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
-- 🔭 I’m currently working on [Algorithmic trading, Hoody(my own project)](https://github.com/JavadJan?tab=repositories)
-
 - 🌱 I’m currently learning **Data Science with python**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, firebase,**
 
-- 📫 How to reach me **khavarimjavad@gmail.com**
+- 📫 How to reach me **[khavarimjavad@gmail.com](https://javad-portfolio.netlify.app/)**
 
 - 📄 Know about my experiences [www.linkedin.com/in/javad-khavari](www.linkedin.com/in/javad-khavari)
 
