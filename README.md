@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, firebase,**
 
-- 📫 How to reach me **[https://javad-portfolio.netlify.app](https://javad-portfolio.netlify.app/)**
+- 📫 How to reach me **[mkhavari@student.42wolfsburg.de](mkhavari@student.42wolfsburg.de/)**
 
 - 📄 Know about my experiences [www.linkedin.com/in/javad-khavari](www.linkedin.com/in/javad-khavari)
 
