@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, firebase,**
 
-- 📫 How to reach me **[mkhavari@student.42wolfsburg.de](mailto:mkhavari@student.42wolfsburg.de/)**
+- 📫 How to reach me **[khavarimjavad@gmail.com](mailto:khavarimjavad@gmail.com/)**
 
 - 📄 Know about my experiences [www.linkedin.com/in/javad-khavari](www.linkedin.com/in/javad-khavari)
 
