@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadjan&label=Profile%20views&color=0e75b6&style=flat" alt="javadjan" /> </p>
 
-- 🌱 I'm currently learning **Deep Learning**
+- 🌱 I'm currently student at **42 Network**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Firebase**
 
