@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently student at **42Wolfsburg**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Firebase**
+- 💬 Ask me about **C, C++, Concurrency, Memory Management, Data Structures, Backend Architecture, Docker**
 
 - 📫 How to reach me: **[khavarimjavad@gmail.com](mailto:khavarimjavad@gmail.com)**
 
