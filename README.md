@@ -20,8 +20,8 @@
     🧩 Things I use a lot now
   </summary>
 
-  <div style="margin-top: 10px; padding: 12px 14px; width: 30%;">
-    <p align="left" style="margin: 1px 20px; line-height: 2;">
+  <div style="margin-top: 40px; padding: 30px 14px; ">
+    <p align="left" style="margin: 40px 20px; line-height: 2; width: 30%;">
 	<img src="https://img.shields.io/badge/Python-bfcad9?style=bold-square&logo=python&logoColor=3776AB" alt="Python" height="24"/>
 	<img src="https://img.shields.io/badge/TypeScript-bfcad9?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="24"/>
 	<img src="https://img.shields.io/badge/MongoDB-bfcad9?style=flat-square&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="24"/>
@@ -71,18 +71,24 @@
 </details>
 
 <details>
-  <summary style="cursor: pointer; font-size: 22px; font-weight: 800;">
-    🚀 Things I'm interested in
-  </summary>
+  <summary><strong>🚀 Things I'm interested in</strong></summary>
 
-  <div style="margin-top: 10px; padding: 12px 14px; max-width: 500px;">
-    <p style="margin: 0; line-height: 2.4;">
-      <img src="https://img.shields.io/badge/AI_Engineer-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="AI Engineer" height="24"/>
-      <img src="https://img.shields.io/badge/C%2FC%2B%2B-bfcad9?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C/C++" height="24"/>
-      <img src="https://img.shields.io/badge/Qt-bfcad9?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" height="24"/>
-      <img src="https://img.shields.io/badge/Generative_AI-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="Generative AI" height="24"/>
-    </p>
-  </div>
+  <br>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/AI_Engineer-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="AI Engineer" height="24"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/C%2FC%2B%2B-bfcad9?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C/C++" height="24"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Qt-bfcad9?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" height="24"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Generative_AI-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="Generative AI" height="24"/>
+      </td>
+    </tr>
+  </table>
+
 </details>
 
 <details>
@@ -123,6 +129,9 @@
         height="220"
       />
     </div>
+
+  </div>
+</details>
     <div style="margin-top: 12px;">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=javadjan&hide_border=true&background=f6f8fa&ring=0969da&fire=0969da&currStreakNum=24292f&currStreakLabel=57606a&sideNums=24292f&sideLabels=57606a&dates=57606a"
@@ -130,6 +139,3 @@
         width="100%"
       />
     </div>
-
-  </div>
-</details>
