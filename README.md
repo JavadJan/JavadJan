@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><strong>🚀 Things I'm interested in</strong></summary>
+  <summary>🚀 Things I'm interested in</summary>
 
   <br>
 
@@ -94,7 +94,7 @@
 <details>
   <summary style="cursor: pointer; font-size: 15px; font-weight: 700;">📚 I am currently learning</summary>
   <div style="margin-top: 10px; padding: 12px 14px; width: 50%;">
-    <p align="left" style="margin: 0; line-height: 2;">
+    <p align="left" style="margin: 0; line-height: 2;" size=200>
       <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" height="24" style="margin: 1px 2px 1px 0;"/>
       <img src="https://img.shields.io/badge/German_B2-0EA5E9?style=flat-square&logo=googletranslate&logoColor=white" alt="German B2" height="24" style="margin: 1px 2px 1px 0;"/>
     </p>
