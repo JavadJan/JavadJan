@@ -15,69 +15,72 @@
   </a>
 </p>
 
-<details open>
+<details close>
   <summary style="cursor: pointer; font-size: 20px; font-weight: 700;">
     🧩 Things I use a lot now
   </summary>
 
   <div style="margin-top: 10px; padding: 12px 14px; width: 30%;">
-    <p align="left" style="margin: 1px 10px; line-height: 2;">
-  <img src="https://img.shields.io/badge/Python-bfcad9?style=bold-square&logo=python&logoColor=3776AB" alt="Python" height="18"/>
-  <img src="https://img.shields.io/badge/TypeScript-bfcad9?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="18"/>
-  <img src="https://img.shields.io/badge/MongoDB-bfcad9?style=flat-square&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="18"/>
-  <img src="https://img.shields.io/badge/Poetry-bfcad9?style=flat-square&logo=poetry&logoColor=60A5FA" alt="Poetry" height="18"/>
-  <img src="https://img.shields.io/badge/React-bfcad9?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="18"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-bfcad9?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" height="18"/>
-  <img src="https://img.shields.io/badge/React_Query-bfcad9?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" height="18"/>
-  <img src="https://img.shields.io/badge/React_Router-bfcad9?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" height="18"/>
-  <img src="https://img.shields.io/badge/Git-bfcad9?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="18"/>
-  <img src="https://img.shields.io/badge/GitHub-bfcad9?style=flat-square&logo=github&logoColor=181717" alt="GitHub" height="18"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-bfcad9?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" height="18"/>
-  <img src="https://img.shields.io/badge/Docker-bfcad9?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" height="18"/>
-  <img src="https://img.shields.io/badge/Firebase-bfcad9?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" height="18"/>
-  <img src="https://img.shields.io/badge/Bash-bfcad9?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" height="18"/>
-  <img src="https://img.shields.io/badge/Node.js-bfcad9?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" height="18"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-bfcad9?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="18"/>
-  <img src="https://img.shields.io/badge/Redis-bfcad9?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" height="18"/>
-  <img src="https://img.shields.io/badge/VS_Code-bfcad9?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" height="18"/>
-
-</p>
+    <p align="left" style="margin: 1px 20px; line-height: 2;">
+	<img src="https://img.shields.io/badge/Python-bfcad9?style=bold-square&logo=python&logoColor=3776AB" alt="Python" height="24"/>
+	<img src="https://img.shields.io/badge/TypeScript-bfcad9?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="24"/>
+	<img src="https://img.shields.io/badge/MongoDB-bfcad9?style=flat-square&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="24"/>
+	<img src="https://img.shields.io/badge/Poetry-bfcad9?style=flat-square&logo=poetry&logoColor=60A5FA" alt="Poetry" height="24"/>
+	<img src="https://img.shields.io/badge/React-bfcad9?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="24"/>
+	<img src="https://img.shields.io/badge/TailwindCSS-bfcad9?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" height="24"/>
+	<img src="https://img.shields.io/badge/React_Query-bfcad9?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" height="24"/>
+	<img src="https://img.shields.io/badge/React_Router-bfcad9?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" height="24"/>
+	<img src="https://img.shields.io/badge/Git-bfcad9?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="24"/>
+	<img src="https://img.shields.io/badge/GitHub-bfcad9?style=flat-square&logo=github&logoColor=181717" alt="GitHub" height="24"/>
+	<img src="https://img.shields.io/badge/GitHub_Actions-bfcad9?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" height="24"/>
+	<img src="https://img.shields.io/badge/Docker-bfcad9?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" height="24"/>
+	<img src="https://img.shields.io/badge/Firebase-bfcad9?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" height="24"/>
+	<img src="https://img.shields.io/badge/Bash-bfcad9?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" height="24"/>
+	<img src="https://img.shields.io/badge/Node.js-bfcad9?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" height="24"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-bfcad9?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="24"/>
+	<img src="https://img.shields.io/badge/Redis-bfcad9?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" height="24"/>
+	<img src="https://img.shields.io/badge/VS_Code-bfcad9?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" height="24"/>
+	</p>
   </div>
 </details>
-
-
 <details>
-  <summary style="cursor: pointer; font-size: 15px; font-weight: 700;">🧠 Things I have some experience in and used in the past</summary>
-  <div style="margin-top: 10px; padding: 12px 14px; width: 50%;">
-    <p align="left" style="margin: 0; line-height: 2;">
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Asterisk-000000?style=flat-square&logo=asterisk&logoColor=white" alt="Asterisk" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/VoIP-14A3F0?style=flat-square&logo=voip&logoColor=white" alt="VoIP" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Windows Server" height="18" style="margin: 1px 2px 1px 0;"/>
+  <summary style="cursor: pointer; font-size: 20px; font-weight: 700;">
+    🧠 Things I have some experience in and used in the past
+  </summary>
+
+  <div style="margin-top: 10px; padding: 12px 14px; max-width: 500px;">
+    <p style="margin: 0; line-height: 2.4;">
+      <img src="https://img.shields.io/badge/Flask-bfcad9?style=flat-square&logo=flask&logoColor=000000" alt="Flask" height="24"/>
+      <img src="https://img.shields.io/badge/FastAPI-bfcad9?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" height="24"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-bfcad9?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" height="24"/>
+      <img src="https://img.shields.io/badge/Pytest-bfcad9?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="Pytest" height="24"/>
+      <img src="https://img.shields.io/badge/Selenium-bfcad9?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium" height="24"/>
+      <img src="https://img.shields.io/badge/SQLite-bfcad9?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" height="24"/>
+      <img src="https://img.shields.io/badge/Firebase-bfcad9?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" height="24"/>
+      <img src="https://img.shields.io/badge/Prisma-bfcad9?style=flat-square&logo=prisma&logoColor=2D3748" alt="Prisma" height="24"/>
+      <img src="https://img.shields.io/badge/OpenAPI-bfcad9?style=flat-square&logo=openapiinitiative&logoColor=6BA539" alt="OpenAPI" height="24"/>
+      <img src="https://img.shields.io/badge/ASP.NET-bfcad9?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET" height="24"/>
+      <img src="https://img.shields.io/badge/C%23-bfcad9?style=flat-square&logo=csharp&logoColor=239120" alt="C#" height="24"/>
+      <img src="https://img.shields.io/badge/PHP-bfcad9?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" height="24"/>
+      <img src="https://img.shields.io/badge/Nginx-bfcad9?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx" height="24"/>
+      <img src="https://img.shields.io/badge/Asterisk-bfcad9?style=flat-square&logo=asterisk&logoColor=000000" alt="Asterisk" height="24"/>
+      <img src="https://img.shields.io/badge/VoIP-bfcad9?style=flat-square&logo=voip&logoColor=14A3F0" alt="VoIP" height="24"/>
+      <img src="https://img.shields.io/badge/Windows_Server-bfcad9?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Windows Server" height="24"/>
     </p>
   </div>
 </details>
 
 <details>
-  <summary style="cursor: pointer; font-size: 15px; font-weight: 700;">🚀 Things I'm interested in</summary>
-  <div  style="margin-top: 10px; padding: 12px 14px; width: 50%;">
-    <p align="left" style="margin: 0; line-height: 2;">
-      <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Engineer" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" height="18" style="margin: 1px 2px 1px 0;"/>
+  <summary style="cursor: pointer; font-size: 22px; font-weight: 800;">
+    🚀 Things I'm interested in
+  </summary>
+
+  <div style="margin-top: 10px; padding: 12px 14px; max-width: 500px;">
+    <p style="margin: 0; line-height: 2.4;">
+      <img src="https://img.shields.io/badge/AI_Engineer-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="AI Engineer" height="24"/>
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-bfcad9?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C/C++" height="24"/>
+      <img src="https://img.shields.io/badge/Qt-bfcad9?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" height="24"/>
+      <img src="https://img.shields.io/badge/Generative_AI-bfcad9?style=flat-square&logo=openai&logoColor=000000" alt="Generative AI" height="24"/>
     </p>
   </div>
 </details>
@@ -86,8 +89,8 @@
   <summary style="cursor: pointer; font-size: 15px; font-weight: 700;">📚 I am currently learning</summary>
   <div style="margin-top: 10px; padding: 12px 14px; width: 50%;">
     <p align="left" style="margin: 0; line-height: 2;">
-      <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/German_B2-0EA5E9?style=flat-square&logo=googletranslate&logoColor=white" alt="German B2" height="18" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" height="24" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/German_B2-0EA5E9?style=flat-square&logo=googletranslate&logoColor=white" alt="German B2" height="24" style="margin: 1px 2px 1px 0;"/>
     </p>
   </div>
 </details>
@@ -96,11 +99,11 @@
   <summary style="cursor: pointer; font-size: 15px; font-weight: 700;"">💡 I also like</summary>
   <div style="margin-top: 10px; padding: 12px 14px; width: 50%;">
     <p align="left" style="margin: 0; line-height: 2;">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3D?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/LangGraph-FF7F50?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" height="18" style="margin: 1px 2px 1px 0;"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" height="18" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="24" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" height="24" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3D?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/LangGraph-FF7F50?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" height="24" style="margin: 1px 2px 1px 0;"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" height="24" style="margin: 1px 2px 1px 0;"/>
     </p>
   </div>
 </details>
