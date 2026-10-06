@@ -1,7 +1,7 @@
 # About Me
 
 <p align="left">
-  <a href="https://t.me/javadjan" target="_blank">
+  <a href="https://t.me/javad_bamyan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
   </a>
   <a href="mailto:khavarimjavad@gmail.com" target="_blank">
