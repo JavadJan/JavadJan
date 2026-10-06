@@ -25,7 +25,6 @@
 	<img src="https://img.shields.io/badge/Python-bfcad9?style=bold-square&logo=python&logoColor=3776AB" alt="Python" height="24"/>
 	<img src="https://img.shields.io/badge/TypeScript-bfcad9?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="24"/>
 	<img src="https://img.shields.io/badge/MongoDB-bfcad9?style=flat-square&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="24"/>
-	<img src="https://img.shields.io/badge/Poetry-bfcad9?style=flat-square&logo=poetry&logoColor=60A5FA" alt="Poetry" height="24"/>
 	<img src="https://img.shields.io/badge/React-bfcad9?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="24"/>
 	<img src="https://img.shields.io/badge/TailwindCSS-bfcad9?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" height="24"/>
 	<img src="https://img.shields.io/badge/React_Query-bfcad9?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" height="24"/>
@@ -52,9 +51,6 @@
     <p style="margin: 0; line-height: 2.4;">
       <img src="https://img.shields.io/badge/Flask-bfcad9?style=flat-square&logo=flask&logoColor=000000" alt="Flask" height="24"/>
       <img src="https://img.shields.io/badge/FastAPI-bfcad9?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" height="24"/>
-      <img src="https://img.shields.io/badge/SQLAlchemy-bfcad9?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" height="24"/>
-      <img src="https://img.shields.io/badge/Pytest-bfcad9?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="Pytest" height="24"/>
-      <img src="https://img.shields.io/badge/Selenium-bfcad9?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium" height="24"/>
       <img src="https://img.shields.io/badge/SQLite-bfcad9?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" height="24"/>
       <img src="https://img.shields.io/badge/Firebase-bfcad9?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" height="24"/>
       <img src="https://img.shields.io/badge/Prisma-bfcad9?style=flat-square&logo=prisma&logoColor=2D3748" alt="Prisma" height="24"/>
